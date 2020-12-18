@@ -37,6 +37,8 @@ const Layout = ({ children }) => {
         <footer style={{
           marginTop: `2rem`
         }}>
+          <em>This is a test of using Gatsby</em>
+          <br />
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
